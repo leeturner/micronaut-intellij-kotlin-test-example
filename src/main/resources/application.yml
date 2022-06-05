@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: micronautIntellijKotlinTestExample
+netty:
+  default:
+    allocator:
+      max-order: 3
